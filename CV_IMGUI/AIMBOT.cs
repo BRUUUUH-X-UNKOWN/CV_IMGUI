@@ -59,6 +59,7 @@ namespace CV_IMGUI
     "procexp", "procmon", "tcpview", "wireshark", "dumpcap", "loader",
     "petools", "exeinfope", "de4dot", "dotpeek", "megadumper", "simpleassemblyexplorer",
     "reshacker", "resourcehacker", "resource hacker", "ollyice", "ollyice64",
+    // Alternative: Resource Cracker https://www.pelock.com/products/resource-cracker
     "x86dbg", "x64_dbg", "pestudio", "cutter", "radare2", "xposed", "jd-gui",
     "strings", "gnome-system-monitor", "pluma", "xxd", "grep", "dnSpy",
     "ILSpy", "Reflector", "sn.exe", "CorFlags", "MegaDumper", "DnSpy",
